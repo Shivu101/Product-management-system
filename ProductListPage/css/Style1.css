@@ -1,0 +1,152 @@
+body{
+    padding-bottom: 20px;
+    color: #5a5a5a;
+    background:#E7F3FF;
+}
+
+.navbar-wrapper{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+}
+
+.navbar-wrapper > .container{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar-wrapper .navbar {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.navbar-wrapper .navbar .container{
+    width: auto;
+}
+
+
+.carousel{
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.carousel .item{
+    height: 500px;
+    background-color: #777;
+}
+
+.carousel-caption>.data{
+    margin-top: 50px;
+    
+}
+.carousel-inner > .item > img{
+    position: absolute;
+    height: 500px;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+}
+.header,h1{
+    font-size: 45px;
+    margin-top: 0px;
+    margin-bottom: -15px;
+    background: black;
+    color: white;
+}
+.h1,h1{
+    text-align: center;
+    color:;
+}
+.col-md-4{
+    border: 1px solid black;
+    margin:14.5px;
+     width:22%;
+}
+.team .col-lg-4{
+    text-align: center;
+    margin-bottom: 20px;
+   
+}
+.button{
+    margin-bottom: 2px;
+}
+.button1{
+    margin-bottom: 5px;
+}
+#myImg{
+     display: block;
+    margin-right: 15px;
+    margin-left: -15px
+    
+}
+#myImg1{
+     display: block;
+    margin-right: 15px;
+    margin-left: -15px
+    
+}
+#myImg2{
+     display: block;
+    margin-right: 15px;
+    margin-left: -15px
+    
+}
+#myImg3{
+     display: block;
+    margin-right: 15px;
+    margin-left: -15px
+    
+}
+#myImg4{
+     display: block;
+    margin-right: 15px;
+    margin-left: -15px
+    
+}
+#myImg5{
+     display: block;
+    margin-right: 15px;
+    margin-left: -15px
+    
+}
+#myImg6{
+     display: block;
+    margin-right: 15px;
+    margin-left: -15px
+    
+}
+.team h2 {
+    text-align: left;
+    color: rgba(50,50,50,0.8);
+}
+
+.team p{
+    margin-right: 10px;
+}
+.checked{
+    color:orange;
+}
+.rupee{
+    font-size: 20px;
+}
+.divider{
+    margin: 40px 0;
+    
+}
+.mickey{
+    padding-left: 90px;
+    text-align: center;
+    padding-top: 80px;
+}
+.content{
+    margin-bottom: 30px;
+}
+
+footer{
+    margin: 0 110px;
+    
+}
+
+
